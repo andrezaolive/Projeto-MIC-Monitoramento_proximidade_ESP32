@@ -79,4 +79,4 @@ void loop() {
 ## Mudanças implementadas: 
 **Precisão no monitoramento com HC-SR04:** Mostra a distância no monitor serial se for menor ou igual à inicialmente definida.  
 **Melhora na transmissão de informação:** Aciona um LED e um buzzer como alerta caso o botão seja acionado, realizando a contagem de acionamentos.  
-**Informa ausência:** Caso o sensor não faça detecção informa no monitor que nenhum objeto está próximo do dispenser.
+**Informa ausência:** Caso o sensor não faça detecção, é informado no monitor que nenhum objeto está próximo do dispenser.
